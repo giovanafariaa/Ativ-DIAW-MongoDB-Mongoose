@@ -18,8 +18,8 @@ Content-Type: application/json
 {
   "cliente": { "nome": "Maria Silva", "email": "maria@email.com" },
   "itens": [
-    { "produto": "COLE_O_ID_DO_PRODUTO_1", "quantidade": 2 },
-    { "produto": "COLE_O_ID_DO_PRODUTO_2", "quantidade": 1 }
+    { "produto": "6af21f27965661788339722a", "quantidade": 2 },
+    { "produto": "6af21f279656617883397229", "quantidade": 1 }
   ]
 }
 
